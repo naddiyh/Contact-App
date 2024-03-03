@@ -1,0 +1,7 @@
+{
+  "extends": ["plugin:tailwindcss/recommended"],
+  "rules": {
+    "semi": ["error", "always"],
+    "quotes": ["error", "double"]
+  }
+}
